@@ -1,6 +1,5 @@
 package edu.washington.nguyen51.activityspy
 
-import android.nfc.Tag
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
