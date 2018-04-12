@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.i(TAG, "onCreate event fired" + intent)
+        Log.i(TAG, "onCreate event fired: intent{" + intent + "}")
     }
 
     override fun onDestroy() {

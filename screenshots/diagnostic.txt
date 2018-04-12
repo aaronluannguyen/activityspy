@@ -1,0 +1,22 @@
+04-12 02:11:55.512 4792-4792/? I/zygote: Not late-enabling -Xcheck:jni (already on)
+04-12 02:11:55.590 4792-4792/? W/zygote: Unexpected CPU variant for X86 using defaults: x86
+04-12 02:11:56.035 4792-4792/edu.washington.nguyen51.activityspy W/zygote: JIT profile information will not be recorded: profile file does not exits.
+04-12 02:11:56.050 4792-4792/edu.washington.nguyen51.activityspy I/chatty: uid=10085(edu.washington.nguyen51.activityspy) identical 10 lines
+04-12 02:11:56.050 4792-4792/edu.washington.nguyen51.activityspy W/zygote: JIT profile information will not be recorded: profile file does not exits.
+04-12 02:11:56.101 4792-4792/edu.washington.nguyen51.activityspy I/MemoryIntArray: created from parcel MemoryIntArray@23268633 mMemoryAddr=3922386944 mFd=47
+04-12 02:11:56.116 4792-4792/edu.washington.nguyen51.activityspy I/InstantRun: starting instant run server: is main process
+04-12 02:11:56.336 4792-4792/edu.washington.nguyen51.activityspy W/zygote: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+    Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+04-12 02:11:56.367 4792-4792/edu.washington.nguyen51.activityspy I/Main Activity: onCreate event fired: intent{Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.washington.nguyen51.activityspy/.MainActivity bnds=[35,606][237,872] }}
+04-12 02:11:56.377 4792-4792/edu.washington.nguyen51.activityspy D/OpenGLRenderer: HWUI GL Pipeline
+04-12 02:11:56.423 4792-4810/edu.washington.nguyen51.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+    android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+04-12 02:11:56.423 4792-4810/edu.washington.nguyen51.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+04-12 02:11:56.423 4792-4810/edu.washington.nguyen51.activityspy D/OpenGLRenderer: Swap behavior 1
+04-12 02:11:56.423 4792-4810/edu.washington.nguyen51.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-12 02:11:56.423 4792-4810/edu.washington.nguyen51.activityspy D/OpenGLRenderer: Swap behavior 0
+04-12 02:11:56.426 4792-4810/edu.washington.nguyen51.activityspy D/EGL_emulation: eglCreateContext: 0xe12b2d60: maj 3 min 0 rcv 3
+04-12 02:11:56.436 4792-4810/edu.washington.nguyen51.activityspy D/EGL_emulation: eglMakeCurrent: 0xe12b2d60: ver 3 0 (tinfo 0xe73ba7c0)
+04-12 02:11:56.483 4792-4810/edu.washington.nguyen51.activityspy D/EGL_emulation: eglMakeCurrent: 0xe12b2d60: ver 3 0 (tinfo 0xe73ba7c0)
+04-12 02:11:59.058 4792-4810/edu.washington.nguyen51.activityspy D/EGL_emulation: eglMakeCurrent: 0xe12b2d60: ver 3 0 (tinfo 0xe73ba7c0)
+04-12 02:12:01.175 4792-4792/edu.washington.nguyen51.activityspy E/Main Activity: We're going down, Captain!
